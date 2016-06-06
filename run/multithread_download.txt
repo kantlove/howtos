@@ -1,0 +1,12 @@
+In Ubuntu, the alternative to IDM is aria2. So:
+
+```shell
+sudo apt-get install aria2
+```
+
+And then see read the documentation on how to use. Basically:
+
+```shell
+# Download with 3 connections per host
+aria2c -x3 <file_link>
+```

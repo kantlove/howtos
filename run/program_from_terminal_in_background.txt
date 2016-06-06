@@ -1,0 +1,5 @@
+Run this command:
+
+```shell
+<program_name> & exit
+```
